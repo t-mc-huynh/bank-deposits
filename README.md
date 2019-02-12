@@ -2,6 +2,7 @@
 This program accesses data from a file holding a record of names and their saving account totals.
 
 Each record in the data file consists of the person's first and last name, and their account balance.
+  
   EX: Colt Brown 2150.95
   
 The program does the follow 3 things:
