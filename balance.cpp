@@ -125,6 +125,8 @@ void NewCopy(PERSON a[], int N)
 		outFile << a[i].Name << " ";
 		outFile << a[i].Balance << endl;
 	}
+
+	cout << "File updated ... " << endl;
 }
 
 void Display(PERSON a[], int N)
